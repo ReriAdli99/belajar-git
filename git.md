@@ -1,4 +1,4 @@
-#tiga kelompok kondisi file dalam git
+# tiga kelompok kondisi file dalam git
 1. Modified
 Modified adalah kondisi dimana revisi atau perubahan sudah dilakukan, tetapi belum ditandai dan belum disimpan di version control.
 
